@@ -1,0 +1,81 @@
+.div1
+{
+	display: flex;
+		justify-content: flex-end;
+		align-content: space-between;
+		align-items: center;
+
+
+}
+.div1 a
+{
+color: blue;
+text-decoration:none;
+font-size: 15px;
+color: #AAAAAA;
+color: #333333;
+font-weight: : bold;
+margin: 15px;
+
+}
+.div2
+{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.div2 img
+{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 230px;
+	margin: 80px;
+}
+.div2 
+{
+text-align: center;
+	justify-content: center;
+		align-items: center;
+
+}
+.div3 img
+{
+	height: 20px;
+}
+.div3
+{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-top: 10px;
+}
+.div1 img
+{
+	height: 35px;
+}
+.div4
+{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 75px;
+	margin: 30px
+}
+.div6 a
+{
+	display: flex;
+	text-decoration: none;
+	align-content: space-around;
+	margin: 15px;
+	align-items: center;
+}
+.div5
+{
+	border: 1px;
+}
+.div6
+{
+	display: flex;
+	align-content: space-around;
+}
